@@ -13,12 +13,12 @@ Hi, I'm Alejandro Rodríguez-Collado, a data scientist and Ph.D. in Mathematics 
 - **Tools**: JIRA, Git, Excel,...
 
 ## Projects
-**1. CO2 Emissions: Analysis and Regression Prediction**: Conducted a comprehensive analysis to predict CO2 emissions from a dataset of 7,385 Canadian vehicles. The project consisted of two notebooks: (1) Exploratory data analysis, preprocessing, and visualization to clean the dataset, handle duplicates, engineer features (e.g., splitting Transmission into Gears and Transmission), and visualize relationships using boxplots, histograms, scatterplots, and correlation heatmaps; (2) Regression modeling to predict emissions using Linear Regression, LASSO Regression, Support Vector Machine (SVM) with RBF kernel, and Regression Trees. Feature importance is measured and key predictors are identified. SVM achieved the best performance ($R^2$: 0.9131 test, MSE: 299.94 test), balancing accuracy and generalization.
+**1. CO2 Emissions: Analysis and Regression Prediction**: Conducted a comprehensive analysis to predict CO2 emissions from a dataset of 7,385 Canadian vehicles. The project consisted of two notebooks: (1) Exploratory data analysis, preprocessing, and visualization to clean the dataset, handle duplicates, engineer features, and visualize relationships using boxplots, histograms, scatterplots, and correlation heatmaps; (2) Regression modeling to predict emissions using Linear Regression, LASSO Regression, Support Vector Machine (SVM), and Regression Trees. Feature importance is measured and key predictors are identified. SVM achieved the best performance ($R^2$: 0.9131 test, MSE: 299.94 test), balancing accuracy and generalization.
 - Techniques: Data cleaning, feature engineering, univariate and bivariate analysis, correlation analysis, data normalization, categorical encoding, linear regression, LASSO regularization, SVM, regression trees, train-test split, feature importance analysis, model evaluation.
 - Tools: Python. Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn (LinearRegression, SVR, DecisionTreeRegressor, StandardScaler, OrdinalEncoder), Statsmodels, Kagglehub.
 - Link: [portfolio-regression-data-viz/](https://github.com/alexARC26/portfolio-regression-data-viz/tree/main)
 
-3. Additional projects are in development to expand the portfolio.
+**2. Additional projects are in development to expand the portfolio.**
 
 ## How to Explore
 - Each project has a dedicated `README.md` with detailed descriptions, code, and results.
