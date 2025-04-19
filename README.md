@@ -1,5 +1,5 @@
 # Comprehensive Data Science & Machine Learning Portfolio
-**Contact:** [alejandrorodriguezcollado@gmail.com](mailto:alejandrorodriguezcollado@gmail.com) | [LinkedIn](https://www.linkedin.com/in/alejandro-rodr%C3%ADguez-collado-a3456b17a)
+**Contact:** [:envelope: alejandrorodriguezcollado@gmail.com](mailto:alejandrorodriguezcollado@gmail.com) | [:link: LinkedIn](https://www.linkedin.com/in/alejandro-rodr%C3%ADguez-collado-a3456b17a)
 
 Hi, I'm Alejandro Rodríguez-Collado, a data scientist and Ph.D. in Mathematics (specializing in Statistics) dedicated to solving business challenges through Artificial Intelligence, Machine Learning, and Business Intelligence. I specialize in transforming raw data into actionable insights using tools like Python, R, Spark, and Power BI. This portfolio showcases my expertise in data transformation, machine learning, deep learning, and innovative applications. Explore my projects to see how I blend technical rigor with creative problem-solving!
 
