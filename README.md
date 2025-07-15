@@ -32,7 +32,7 @@ Conducted a comprehensive analysis to predict CO2 emissions from a dataset of 7,
 - **Link**: [portfolio-regression-data-viz](https://github.com/alexARC26/portfolio-regression-data-viz/tree/main)
 
 ![Model Performance by R2 and MSE](https://raw.githubusercontent.com/alexARC26/portfolio-regression-data-viz/main/images/Results_Summary.png)
-*Figure 1: Model performance for CO$_2$ emissions prediction, evaluated by $R^2$ and MSE.*
+*Figure 1: Model performance for CO*$_2$* emissions prediction, evaluated by *$R^2$* and MSE.*
 
 ### 2. Cats-vs.-Dogs Image Classification (Python)
 
