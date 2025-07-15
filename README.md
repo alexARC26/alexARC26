@@ -20,7 +20,7 @@ I’m Alejandro Rodríguez-Collado, a data scientist and Ph.D. in Mathematics (S
 | **Cats-vs-Dogs** | Python | Classification of cat and dog images | Inception CNN with accuracy of 0.967 | [portfolio-classification-neural-networks](https://github.com/alexARC26/portfolio-classification-neural-networks/tree/main) |
 
 ## Projects
-### 1. CO2 Emissions: Analysis and Regression Prediction (Python)
+### 1. CO$_2$ Emissions: Analysis and Regression Prediction (Python)
 
 Conducted a comprehensive analysis to predict CO2 emissions from a dataset of 7,385 Canadian vehicles. The project consists of two notebooks: (1) Exploratory data analysis, preprocessing, and visualization to clean the dataset, engineer features, and visualize relationships using boxplots, histograms, scatterplots, and correlation heatmaps; (2) Regression modeling to predict emissions using linear regression, LASSO, support vector machines, regression trees, and XGBoost. XGBoost, after hyperparameter tuning, achieved the best performance (0.998 $R^2$ and 7.400 MSE). This model could inform eco-friendly vehicle policies or consumer decision-making.
 - **Techniques**: 
@@ -32,7 +32,7 @@ Conducted a comprehensive analysis to predict CO2 emissions from a dataset of 7,
 - **Link**: [portfolio-regression-data-viz](https://github.com/alexARC26/portfolio-regression-data-viz/tree/main)
 
 ![Model Performance by R2 and MSE](https://raw.githubusercontent.com/alexARC26/portfolio-regression-data-viz/main/images/Results_Summary.png)
-*Figure 1: Model Performance of the CO2 emissions prediction by R2 and MSE.*
+*Figure 1: Model performance for CO$_2$ emissions prediction, evaluated by $R^2$ and MSE.*
 
 ### 2. Cats-vs.-Dogs Image Classification (Python)
 
@@ -45,7 +45,7 @@ Developed a model to classify cat and dog images using a dataset with a high fea
 - **Link**: [portfolio-classification-neural-networks](https://github.com/alexARC26/portfolio-classification-neural-networks/tree/main)
 
 ![Model Performance by accuracy and F1 score](https://raw.githubusercontent.com/alexARC26/portfolio-classification-neural-networks/main/images/Results_Summary.png)
-*Figure 2: Model Performance of the cats-vs.-dogs classification by accuracy and F1 score.*
+*Figure 2: Model performance for cats-vs.-dogs classification, evaluated by accuracy and F1 score.*
 
 ### 3. Upcoming Projects 
 Currently developing projects to further expand the portfolio—stay tuned for updates!
