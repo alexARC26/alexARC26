@@ -48,7 +48,7 @@ Developed a model to classify cat and dog images using a dataset with a high fea
 *Figure 2: Model performance for cats-vs.-dogs classification, evaluated by accuracy and F1 score.*
 
 ### 3. Upcoming Projects 
-Currently developing projects to further expand the portfolio—stay tuned for updates!
+Currently developing projects to further expand the portfolio — Stay tuned for updates!
 
 ## How to Explore
 - Each project has a dedicated `README.md` with detailed descriptions, code, and results.
