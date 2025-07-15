@@ -32,8 +32,9 @@ Conducted a comprehensive analysis to predict CO2 emissions from a dataset of 7,
 - Link: [portfolio-regression-data-viz](https://github.com/alexARC26/portfolio-regression-data-viz/tree/main)
 
 ![Model Performance by R2 and MSE](https://raw.githubusercontent.com/alexARC26/portfolio-regression-data-viz/main/images/Results_Summary.png)
+*Figure 1: Model Performance of the CO2 emissions prediction by R2 and MSE.*
 
-**2. Portfolio: Cats-vs.-Dogs Image Classification (Python)**
+**2. Cats-vs.-Dogs Image Classification (Python)**
 
 Developed a model to classify cat and dog images using a dataset with a high feature-to-sample ratio (2,000 images and 67,500 features per image). The project includes preprocessing and three notebooks, each exploring a different approach: (1) Classic ML with dimensionality reduction techniques; (2) Sequential CNNs; (3) Inception CNNs with transfer learning. The latter achieved 0.967 accuracy and 0.970 F1 score in an indepedent test dataset, outperforming other models. This approach could support wildlife monitoring or pet identification systems.
 - Techniques: 
@@ -44,6 +45,7 @@ Developed a model to classify cat and dog images using a dataset with a high fea
 - Link: [portfolio-classification-neural-networks](https://github.com/alexARC26/portfolio-classification-neural-networks/tree/main)
 
 ![Model Performance by accuracy and F1 score](https://raw.githubusercontent.com/alexARC26/portfolio-classification-neural-networks/main/images/Results_Summary.png)
+*Figure 2: Model Performance of the cats-vs.-dogs classification by accuracy and F1 score.*
 
 **3. Upcoming Projects**  
 Currently developing projects to further expand the portfolio—stay tuned for updates!
