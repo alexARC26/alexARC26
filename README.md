@@ -1,11 +1,11 @@
-# Comprehensive Data Science & Machine Learning Portfolio
+# Comprehensive Data Science & ML Portfolio
 **Contact:** [:envelope: alejandrorodriguezcollado@gmail.com](mailto:alejandrorodriguezcollado@gmail.com) | [:link: LinkedIn](https://www.linkedin.com/in/alejandro-rodr%C3%ADguez-collado-a3456b17a)
+
 I’m Alejandro Rodríguez-Collado, a data scientist and Ph.D. in Mathematics (Statistics), passionate about using AI, Machine Learning, and Business Intelligence to solve business challenges. One of my most significant recent accomplishments is leading the rapid expansion of a data team at a real estate company. Under my leadership, the team implemented data-driven solutions for multiple clients. This significantly enhanced the company’s decision-making processes. With more than 7 years of experience, I’ve tackled projects in biomedicine, intelligent transport systems, and industry 4.0, published research in top journals, and even have written two books. I thrive on connecting technical work with business goals and am always excited for new data science opportunities.
 
 ## About me
 - **Technical skills**:	AI and ML (regression, classification, clustering, feature engineering, PCA,...), Neural Networks and Deep Learning, Data visualization and Business Intelligence, Data transformation and profiling in Big Data.
 - **Soft Skills**: Agile team management, Customer interaction expertise, Gathering of client requirements, Proactivity, Team player.
-
 - **Programming languages**: Python, R, SQL, Java, Spark, Matlab, among others.
 - **ETLs**: Knime, Pentaho. In Python, numpy, pandas and polars, and, in R, tidyverse.
 - **ML / AI**: In Python, scikit-learn, keras and tensorflow, and, in R, caret and tidymodels, among others.
@@ -16,8 +16,8 @@ I’m Alejandro Rodríguez-Collado, a data scientist and Ph.D. in Mathematics (S
 ## Project Overview
 | Project | Objective | Key Result | Link |
 |---------|-----------|------------|------|
-| CO2 Emissions | Predict vehicle emissions with regression models | XGBoost with $R^2$ of 0.998 | [portfolio-regression-data-viz](https://github.com/alexARC26/portfolio-regression-data-viz/tree/main) |
-| Cats-vs-Dogs | Classification of cat and dog images | Inception CNN with accuracy of 0.967 | [portfolio-classification-neural-networks](https://github.com/alexARC26/portfolio-classification-neural-networks/tree/main) |
+| **CO2 Emissions** | Predict vehicle emissions with regression models | Tuned XGBoost with $R^2$ of 0.998 | [portfolio-regression-data-viz](https://github.com/alexARC26/portfolio-regression-data-viz/tree/main) |
+| **Cats-vs-Dogs** | Classification of cat and dog images | Inception CNN with accuracy of 0.967 | [portfolio-classification-neural-networks](https://github.com/alexARC26/portfolio-classification-neural-networks/tree/main) |
 
 ## Projects
 **1. CO2 Emissions: Analysis and Regression Prediction**
@@ -29,6 +29,7 @@ Conducted a comprehensive analysis to predict CO2 emissions from a dataset of 7,
     - Evaluation: Train-validation-test split, feature importance analysis, hyperparameter tuning
 - Tools: Python. Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn (LinearRegression, SVR, DecisionTreeRegressor), Statsmodels, XGBoost, Kagglehub.
 - Link: [portfolio-regression-data-viz](https://github.com/alexARC26/portfolio-regression-data-viz/tree/main)
+
 ![Model Performance by R2 and MSE](https://raw.githubusercontent.com/alexARC26/portfolio-regression-data-viz/main/images/Results_Summary.png)
 
 **2. Portfolio: Cats-vs.-Dogs Image Classification.**
@@ -39,6 +40,7 @@ Developed a model to classify cat and dog images using a dataset of with a high 
     - Evaluation: Train-validation-test split, hyperparameter tuning.
 - Tools: Python. Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn (logistic regression, decision tree, and random forest), Scitkit-image, Keras, Tensorflow, PCA.
 - Link: [portfolio-classification-neural-networks](https://github.com/alexARC26/portfolio-classification-neural-networks/tree/main)
+
 ![Model Performance by accuracy and F1 score](https://raw.githubusercontent.com/alexARC26/portfolio-classification-neural-networks/main/images/Results_Summary.png)
 
 **3. Upcoming Projects**  
