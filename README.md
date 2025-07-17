@@ -55,4 +55,4 @@ Currently developing projects to further expand the portfolio — Stay tuned for
 - Notebooks are located in the `notebooks/` folder of each project and are optimized for seamless execution in Google Colab, with integrated data downloads and dependencies for immediate reproducibility.
 - Explore the repository on GitHub for the latest updates.
 
-Thank you for visiting my portfolio! For suggestions or collaboration opportunities, please connect with me on LinkedIn or email me.
+Thank you for visiting my portfolio! For suggestions or collaboration opportunities, please connect with me on [LinkedIn](https://www.linkedin.com/in/alejandro-rodr%C3%ADguez-collado-a3456b17a) or email me.
