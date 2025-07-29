@@ -52,7 +52,7 @@ Currently developing projects to further expand the portfolio — Stay tuned for
 
 ## Previous Work
 Highlights of published contributions from past roles:
-- **FMM R Package (2020–2022)**: Tech lead and maintainer of a package for the functional data analysis of oscillatory signals. [Link](https://cran.r-project.org/web/packages/FMM).
+- **CRAN R Package (2020–2022)**: Tech lead and maintainer of a package for the functional data analysis of oscillatory signals. [Link](https://cran.r-project.org/web/packages/FMM).
 - **Shiny Apps with R (2019–2022)**: Led development of interactive web apps for data visualization and analysis in biomedicine and neuroscience. Example: [Cre Line’s Neuronal APs](https://alexarc26.shinyapps.io/median_ap_profile_by_cre_line).
 
 ## How to Explore
