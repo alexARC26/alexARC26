@@ -1,23 +1,27 @@
 # Comprehensive Data Science & ML Portfolio
-**Contact:** [:envelope: alejandrorodriguezcollado@gmail.com](mailto:alejandrorodriguezcollado@gmail.com) | [:link: LinkedIn](https://www.linkedin.com/in/alejandro-rodr%C3%ADguez-collado-a3456b17a)
+**Contact:** [🌐 alex-collado.com](https://alex-collado.com) | [:envelope: alejandrorodriguezcollado@gmail.com](mailto:alejandrorodriguezcollado@gmail.com) | [:link: LinkedIn](https://www.linkedin.com/in/alejandro-rodr%C3%ADguez-collado-a3456b17a)
 
-I’m Alejandro Rodríguez-Collado, a data scientist and Ph.D. in Mathematics (Statistics), passionate about using AI, Machine Learning, and Business Intelligence to solve business challenges. One of my most significant recent accomplishments is leading the rapid expansion of a data team at a real estate company. Under my leadership, the team implemented data-driven solutions for multiple clients. This significantly enhanced the company’s decision-making processes. With more than 7 years of experience, I’ve tackled projects in biomedicine, intelligent transport systems, and industry 4.0, published research in top journals, and even have written two books. I thrive on connecting technical work with business goals and am always excited for new data science opportunities.
+I’m Alejandro Rodríguez-Collado, a senior Data Scientist and Data & AI Tech Lead with 8+ years of experience delivering data-driven products and AI solutions across real estate, biomedicine, and Industry 4.0.
+
+Proven track record leading cross-functional teams of up to 7 engineers and scientists, building scalable data platforms, and translating business needs into production-grade analytics, machine learning, and LLM-powered solutions. Ph.D. in Statistics combining strong technical depth with project leadership, stakeholder management, and strategic execution.
 
 ## About me
-- **Technical skills**:	AI and ML (regression, classification, clustering, feature engineering, PCA,...), Neural Networks and Deep Learning, Data visualization and Business Intelligence, Data transformation and profiling in Big Data.
-- **Soft Skills**: Agile team management, Customer interaction expertise, Gathering of client requirements, Proactivity, Team player.
-- **Programming languages**: Python, R, SQL, Java, Spark, Matlab, among others.
-- **ETLs**: Knime, Pentaho. In Python, numpy, pandas and polars, and, in R, tidyverse.
-- **ML / AI**: In Python, scikit-learn, keras and tensorflow, and, in R, caret and tidymodels, among others.
-- **Visualization**: PowerBI, Tableau, Grafana, Qlik View, Kibana. In Python, matplotlib and seaborn, and, in R, ggplot2 and shiny.
-- **Cloud**: Google Colab and Google Cloud, Amazon Web Services (SageMaker, A2I, Athena), Microsoft Azure, Databricks.
-- **Tools**: JIRA, Git, Excel,...
+- **Data Science & AI**: Machine Learning (ML), Deep Learning (DL), Computer Vision, Statistical Modeling, Time Series Analysis, Data Visualization.
+- **ML/DL Frameworks**: Scikit-learn, TensorFlow, PyTorch.
+- **Generative AI & LLMs**: Retrieval-Augmented Generation (RAG), Agentic RAG (LangGraph), LangChain (LCEL), Vector Databases (Chroma), Embeddings (Sentence-Transformers, Hugging Face), LLM Inference (OpenAI, local via Ollama), RAG Evaluation, Prompt Engineering.
+- **Data Engineering**: ETL / ELT, Data Pipelines, Snowflake, Apache Spark, Apache Hop, Apache Airflow.
+- **Programming Languages**: Python, SQL, R, Java.
+- **Cloud**: Amazon Web Services (AWS), Google Cloud Platform (GCP), Microsoft Azure, Databricks.
+- **Visualization Tools**: Power BI, Grafana, Tableau.
+- **Leadership & Delivery**: Team Management, Agile Project Management, Stakeholder Management.
+- **Languages**: Spanish (Native), English (Fluent / Near native; certified by Cambridge University).
 
 ## Project Overview
 | Project | Tool | Objective | Key Result | Link |
 |---------|-----------|-----------|------------|------|
 | **CO2 Emissions** | Python | Predict vehicle emissions with regression models | Tuned XGBoost with $R^2$ of 0.998 | [portfolio-regression-data-viz](https://github.com/alexARC26/portfolio-regression-data-viz/tree/main) |
 | **Cats-vs-Dogs** | Python | Classification of cat and dog images | Inception CNN with accuracy of 0.967 | [portfolio-classification-neural-networks](https://github.com/alexARC26/portfolio-classification-neural-networks/tree/main) |
+| **RAG Basics** | Python | Build and evaluate a Retrieval-Augmented Generation pipeline | Hit Rate@10 of 88.89% (MRR 0.633), verified faithfulness via LLM-as-judge | [rag-basics](https://github.com/alexARC26/rag-basics) |
 
 ## Projects
 ### 1. CO₂ Emissions: Analysis and Regression Prediction (Python)
@@ -47,6 +51,19 @@ Developed a model to classify cat and dog images using a dataset with a high fea
 ![Model Performance by accuracy and F1 score](https://raw.githubusercontent.com/alexARC26/portfolio-classification-neural-networks/main/images/Results_Summary.png)
 *Figure 2: Model performance for cats-vs.-dogs classification, evaluated by accuracy and F1 score.*
 
+### 3. RAG Basics: Retrieval-Augmented Generation Pipeline (Python)
+
+Built a progressive series of notebooks covering the full RAG lifecycle: from a minimal retriever to an agentic system with quantitative evaluation. Starting with document chunking and a Chroma vector store, the project builds a Retrieve → Augment → Generate chain (first with a local Ollama `llama3.2` model, then with real PDF ingestion and LCEL), converts it into an agentic RAG system where the LLM decides when to call retrieval as a tool (LangGraph), and finally evaluates the system quantitatively — retrieval quality (Hit Rate, MRR) and generation quality (LLM-as-judge faithfulness scoring). At k=10, the retriever achieved an 88.89% Hit Rate and 0.633 MRR; the LLM judge confirmed high faithfulness on answered questions and correctly refused adversarial, out-of-context questions instead of hallucinating.
+- **Techniques**:
+    - Indexing: document chunking, embeddings, vector storage.
+    - Generation: RAG chains with LCEL, prompt engineering, agentic retrieval (tool-calling).
+    - Evaluation: retrieval metrics (Hit Rate, MRR), LLM-as-judge faithfulness scoring, adversarial testing.
+- **Tools**: Python. LangChain, LangGraph, Chroma, Sentence-Transformers / Hugging Face embeddings, Ollama (local `llama3.2`), OpenAI API, PyPDF.
+- **Link**: [rag-basics](https://github.com/alexARC26/rag-basics)
+
+![Hit Rate and MRR by k](https://raw.githubusercontent.com/alexARC26/rag-basics/main/images/Results_Summary.png)
+*Figure 3: RAG retrieval quality by k, evaluated by Hit Rate and MRR.*
+
 ### 3. Upcoming Projects 
 Currently developing projects to further expand the portfolio — Stay tuned for updates!
 
@@ -60,4 +77,4 @@ Highlights of published contributions from past roles:
 - Notebooks are located in the `notebooks/` folder of each project and are optimized for seamless execution in Google Colab, with integrated data downloads and dependencies for immediate reproducibility.
 - Explore the repository on GitHub for the latest updates.
 
-Thank you for visiting my portfolio! For suggestions or collaboration opportunities, please connect with me on [LinkedIn](https://www.linkedin.com/in/alejandro-rodr%C3%ADguez-collado-a3456b17a) or email me.
+Thank you for visiting my portfolio! For suggestions or collaboration opportunities, please contact with me on [🌐 alex-collado.com](https://alex-collado.com).
