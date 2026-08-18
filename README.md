@@ -1,5 +1,5 @@
 # Comprehensive Data Science & ML Portfolio
-**Contact:** [🌐 alex-collado.com](https://alex-collado.com) | [:envelope: alejandrorodriguezcollado@gmail.com](mailto:alejandrorodriguezcollado@gmail.com) | [:link: LinkedIn](https://www.linkedin.com/in/alejandro-rodr%C3%ADguez-collado-a3456b17a)
+**Contact:** [🌐 alex-collado.com](https://alex-collado.com) | [:envelope: alex.collado.data@gmail.com](mailto:alex.collado.data@gmail.com) | [:link: LinkedIn](https://www.linkedin.com/in/alejandro-rodr%C3%ADguez-collado-a3456b17a)
 
 I’m Alejandro Rodríguez-Collado, a senior Data Scientist and Data & AI Tech Lead with 8+ years of experience delivering data-driven products and AI solutions across real estate, biomedicine, and Industry 4.0.
 
